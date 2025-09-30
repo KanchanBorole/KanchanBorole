@@ -14,7 +14,6 @@
 ---
 
 ## 🏆 Achievements
-- .  
 - Built **3+ real-world projects** with frontend + backend + database integration.  
 - Participated in **Hackathons as well as Open Source** and developed working prototypes under tight deadlines.  
 - Solved **[100+] problems** on platforms like **LeetCode and HackerRank**.  
