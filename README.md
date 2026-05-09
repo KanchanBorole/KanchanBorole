@@ -34,8 +34,8 @@ Here are some of the projects I’m most proud of:
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [https://www.linkedin.com/in/kanchan-borole]  
-- Email: [kanchanborole17@gmail.com]  
+- LinkedIn: https://www.linkedin.com/in/kanchan-borole  
+- Email: kanchanborole17@gmail.com
 
 ---
 
