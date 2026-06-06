@@ -16,9 +16,9 @@
 ## 🏆 Achievements
 - 🎯 **Google Summer of Code 2026** — Selected contributor at BRL-CAD (C++ / Qt)
 - 🏅 **TCS CodeVita 2025** — Ranked 881 out of 531,000+ participants globally(Round 1)
-- 🚀 **Adobe India Hackathon 2025** — Built and presented under Adobe's challenge
+- 🚀 **Adobe India Hackathon** — Built and presented under Adobe's challenge
 - 🛰️ **ISRO Bhartiya Antariksh Hackathon** — Participated in India's national space hackathon
-- ☁️ **Google Cloud Agentic AI Hackathon 2025** — Participated in Google's AI challenge
+- ☁️ **Google Cloud Agentic AI Hackathon** — Participated in Google's AI challenge
 - 💻 Built 3+ full-stack projects with real users, auth systems, and REST APIs
     
 ---
