@@ -1,12 +1,12 @@
 
 # Hi, I’m Kanchan 👋
 
-### 🚀 Aspiring Full Stack Developer | CSE Student | 9.52 CGPA | Software Developer
+### 🚀 Full Stack Developer | Open Source Contributor | 9.52 CGPA | Software Developer | Computer Science & Engineering Student
 
 ---
 
 ## 🌟 About Me
-- 🔭 Currently working on **real-world full stack projects** using Java, React, SQL, and Spring Boot.  
+- 🔭 Currently working on **real-world full stack projects** using Java, SQL, and MERN.  
 - 🌱 Learning **Data Structures, Algorithms, and System Design** to sharpen problem-solving skills.  
 - 💡 Passionate about applying technology to solve **real-world challenges**.  
 - ⚡ Motto: *“Learning by building and creating a real-world impact”*
@@ -14,20 +14,21 @@
 ---
 
 ## 🏆 Achievements
-- Built **3+ real-world projects** with frontend + backend + database integration.  
-- Participated in **Hackathons as well as Open Source** and developed working prototypes under tight deadlines.  
-- Solved **[100+] problems** on platforms like **LeetCode and HackerRank**.  
-- Actively contributing to **GitHub projects** with clean, production-ready code.
+- 🎯 **Google Summer of Code 2026** — Selected contributor at BRL-CAD (C++ / Qt)
+- 🏅 **TCS CodeVita 2025** — Ranked 881 out of 531,000+ participants globally(Round 1)
+- 🚀 **Adobe India Hackathon 2025** — Built and presented under Adobe's challenge
+- 🛰️ **ISRO Bhartiya Antariksh Hackathon** — Participated in India's national space hackathon
+- ☁️ **Google Cloud Agentic AI Hackathon 2025** — Participated in Google's AI challenge
+- 💻 Built 3+ full-stack projects with real users, auth systems, and REST APIs
     
-
 ---
 
 ## 💻 Projects Highlight
 Here are some of the projects I’m most proud of:  
 
-- **Medicine Tracker** → A smart app to manage and track your medicines, doses, and schedules for timely reminders and better health management..  
-- **Real-Time Satellite Tracker** → Visualizes live satellite positions using React + Spring Boot.  
-- **Blog-Hub** → BlogHub is designed to make blogging **easy, interactive, and accessible** for everyone.  
+- **Blog-Hub** → BlogHub is designed to make blogging **easy, interactive, and accessible** for everyone.
+- **Real-Time Satellite Tracker** → Visualizes live satellite positions using React + Java.   
+- **Medicine Tracker** → A smart app to manage and track your medicines, doses, and schedules for timely reminders and better health management. 
 
 👉 [Check out more of my projects here](https://github.com/KanchanBorole)  
 
