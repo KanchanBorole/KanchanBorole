@@ -1,7 +1,7 @@
 
 # Hi, I’m Kanchan 👋
 
-### 🚀 Full Stack Developer | Open Source Contributor | 9.52 CGPA | Software Developer | Computer Science & Engineering Student
+### 🚀 Full Stack Developer | Open Source Contributor | 9.33 CGPA | Software Developer | Computer Science & Engineering Student
 
 ---
 
