@@ -14,6 +14,7 @@
 ---
 
 ## 🏆 Achievements
+- 🚀 **Google Summer of Code, BRL-CAD** - Contributor
 - 🏅 **TCS CodeVita 2025** — Ranked 881 out of 531,000+ participants globally(Round 1)
 - 🚀 **Adobe India Hackathon** — Built and presented under Adobe's challenge
 - 🛰️ **ISRO Bhartiya Antariksh Hackathon** — Participated in India's national space hackathon
